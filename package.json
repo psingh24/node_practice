@@ -1,0 +1,21 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "twitter, spotify and movie api practice with node",
+  "main": "app.js",
+  "dependencies": {
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {
+    "twit": "^2.2.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "node.js"
+  ],
+  "author": "Prabhdeep Singh",
+  "license": "ISC"
+}
